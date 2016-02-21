@@ -1,1 +1,2 @@
-# first_ror_project
+# First Ruby on Rails project
+http://codenamecrud.ru/basics-of-web-development/project-ruby-on-rails
